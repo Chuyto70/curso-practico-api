@@ -1,0 +1,20 @@
+{
+    "name": "curso-practico-api",
+    "version": "1.0.0",
+    "description": "Este es un ejercicio de un curso de platzi sobre api",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Chuyto70/curso-practico-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Chuyto70/curso-practico-api/issues"
+    },
+    "homepage": "https://github.com/Chuyto70/curso-practico-api#readme"
+}
